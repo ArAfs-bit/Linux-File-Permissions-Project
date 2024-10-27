@@ -16,7 +16,6 @@ To maintain security, our team needed to review and adjust permissions on specif
   - [3. Changing Hidden File Permissions](#3-changing-hidden-file-permissions)
   - [4. Changing Directory Permissions](#4-changing-directory-permissions)
 - [Summary](#summary)
-- [Resources](#resources)
 
 ## Objectives
 
