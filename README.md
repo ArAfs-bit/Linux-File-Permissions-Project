@@ -72,7 +72,7 @@ For example, the permissions string `-rw-rw-r--` indicates:
 - **Screenshot**:
   ![Changing Directory Permissions](Screenshots/Changing_Directory_Permission.png)
 
-###Summary:###
+### Summary:
 This project involved inspecting, analyzing, and modifying permissions on files and directories to align with the organization’s security policies. Using commands like `ls -la` and `chmod`, we were able to secure sensitive resources, limit unauthorized access, and establish the appropriate level of permissions.
 
 
