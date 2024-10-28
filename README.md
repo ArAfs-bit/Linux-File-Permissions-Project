@@ -16,6 +16,7 @@ To maintain security, our team needed to review and adjust permissions on specif
   - [3. Changing Hidden File Permissions](#3-changing-hidden-file-permissions)
   - [4. Changing Directory Permissions](#4-changing-directory-permissions)
 - [Summary](#summary)
+- [Note](#note)
 
 ## Objectives
 
@@ -74,7 +75,8 @@ For example, the permissions string `-rw-rw-r--` indicates:
 ### Summary:
 This project involved inspecting, analyzing, and modifying permissions on files and directories to align with the organization’s security policies. Using commands like `ls -la` and `chmod`, we were able to secure sensitive resources, limit unauthorized access, and establish the appropriate level of permissions.
 
-
+## Note
+The Linux commands in this repository were executed in a lab environment provided by Google’s certification program, which used `researcher2` as the default Linux user. This setup does not reflect the user's personal environment and was used solely for demonstration and educational purposes.
 
   
 
